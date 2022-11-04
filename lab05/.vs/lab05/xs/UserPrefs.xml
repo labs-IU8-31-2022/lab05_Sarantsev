@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{471ECF14-1ADA-477C-A0B1-73783B3C9057}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab05/Program.cs">
+    <Files>
+      <File FileName="lab05/Program.cs" Line="74" Column="38" />
+      <File FileName="lab05/MyDictionary.cs" Line="33" Column="76" />
+      <File FileName="lab05/MyMatrix.cs" Line="46" Column="47" />
+      <File FileName="lab05/MyList.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab05" expanded="True">
+            <Node name="lab05" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.lab05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
